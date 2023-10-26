@@ -23,5 +23,6 @@ if ($count == 1) {
     exit;
 }
 
+
 $conexao->close();
 ?>
