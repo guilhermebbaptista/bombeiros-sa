@@ -1,6 +1,6 @@
-/* @media (max-width: 1024px) {
+@media (max-width: 1024px) {
   /* Coloque aqui as regras de estilo que você deseja aplicar para tablets */
-  /* } */
+  }
   .body {
     font-family: Arial, sans-serif;
     background-color: #f2f2f2;
@@ -34,7 +34,7 @@
     margin-bottom: 5px;
   }
   .login_input {
-    width: 100px;/*antes 100%   */
+    width: 100%;
     padding: 10px;
     margin-bottom: 10px;
     border: 1px solid #ccc;
@@ -46,7 +46,7 @@
     outline: none;
   }
   .login_button {
-    background-color: #a200ff;
+    background-color: #6b38a5;
     color: white;
     border: none;
     padding: 15px 50px;
@@ -71,7 +71,7 @@
     min-height: 100vh;
 }
 .container {
-    width: 800px;
+    max-width: 800px;
     width: 70%;
     margin: 20px;
     padding: 20px;
