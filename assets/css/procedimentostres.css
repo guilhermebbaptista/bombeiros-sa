@@ -53,7 +53,7 @@
       border-radius: 15px;
       cursor: pointer;
       margin-left: 175px;
-      margin-top: 30px;
+      margin-top: 190px;
     }
     .checkbox_um {
       color:rgb(51, 51, 51);
@@ -181,19 +181,6 @@
 .caixadetexto{
     margin-top: -32px;
     margin-left: 140px; 
-}
-.caixadetextodois{
-    margin-top: -32px;
-    margin-left: 40px; 
-}
-.caixadetextotres{
-    margin-top: -32px;
-    margin-left: 260px; 
-}
-.caixadetextoquatro{
-    margin-top: -32px;
-    margin-left: 225px; 
-    width: 1px;
 }
 .bonitocontainer {
     background-color: rgb(110, 109, 185);
